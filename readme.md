@@ -1,11 +1,5 @@
-# Ribbbon
-
-_V 2.2_
-
-
-[Ribbbon.com](http://ribbbon.com)
-
-Ribbbon is a project management system built on Laravel 5.1.* & Vue.js :)
+#project-box 
+A project Management web app using laravel 
 
 # Features
   - User / account creation
@@ -31,5 +25,3 @@ Ribbbon is a project management system built on Laravel 5.1.* & Vue.js :)
  - Run php artisan db:seed
  - Start developing!
 
-
-"# project-box" 
